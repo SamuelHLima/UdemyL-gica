@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Exercicio15",
+      "request": "launch",
+      "mainClass": "Exercicio15",
+      "projectName": "Programas em Java_3f519411"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercicio14",
+      "request": "launch",
+      "mainClass": "Exercicio14",
+      "projectName": "Programas em Java_3f519411"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercicio13",
+      "request": "launch",
+      "mainClass": "Exercicio13",
+      "projectName": "Programas em Java_3f519411"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercicio12",
+      "request": "launch",
+      "mainClass": "Exercicio12",
+      "projectName": "Programas em Java_3f519411"
+    },
+    {
+      "type": "java",
       "name": "Launch Exercicio11",
       "request": "launch",
       "mainClass": "Exercicio11",
