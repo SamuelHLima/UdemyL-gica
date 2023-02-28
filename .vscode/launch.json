@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Exercicio24",
+      "request": "launch",
+      "mainClass": "Exercicio24",
+      "projectName": "Programas em Java_3f519411"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercicio23",
+      "request": "launch",
+      "mainClass": "Exercicio23",
+      "projectName": "Programas em Java_3f519411"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercicio222",
+      "request": "launch",
+      "mainClass": "Exercicio222",
+      "projectName": "Programas em Java_3f519411"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercicio21",
+      "request": "launch",
+      "mainClass": "Exercicio21",
+      "projectName": "Programas em Java_3f519411"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercicio20",
+      "request": "launch",
+      "mainClass": "Exercicio20",
+      "projectName": "Programas em Java_3f519411"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercicio19",
+      "request": "launch",
+      "mainClass": "Exercicio19",
+      "projectName": "Programas em Java_3f519411"
+    },
+    {
+      "type": "java",
       "name": "Launch Exercicio18",
       "request": "launch",
       "mainClass": "Exercicio18",
